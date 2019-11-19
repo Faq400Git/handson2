@@ -18,8 +18,8 @@
 
        dcl-s nuovavariabile char(10);
 
-       // Versione del programma
-       version='1.1';
+       // Versione del programma modificata da SEU!
+       version='1.2';
        testo='Versione '+Version;
 
        dsply testo  ;
